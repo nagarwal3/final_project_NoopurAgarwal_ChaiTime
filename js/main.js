@@ -1,5 +1,8 @@
 // Make it rain!
 
+
+
+
 var $teapot = $('#teapot'),
 $body = $(document.body),
 bodyHeight = $body.height();
